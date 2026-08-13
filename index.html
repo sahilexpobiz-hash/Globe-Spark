@@ -10,7 +10,7 @@
 <meta name="robots" content="index, follow">
 <meta name="author" content="GlobeSpark">
 <link rel="canonical" href="https://www.globespark.com/index.html">
-w
+
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="GlobeSpark – SEO & Digital Marketing Agency">
@@ -473,6 +473,32 @@ w
 
   .form-submit:hover { background: #2589d1; }
 
+  /* FAQ */
+  #faq { background: var(--white); }
+  .faq-list { max-width: 760px; margin: 48px auto 0; }
+  .faq-item { border-bottom: 1px solid rgba(26,58,107,0.1); }
+  .faq-q {
+    width: 100%; text-align: left; background: transparent; border: none; cursor: pointer;
+    font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 600; color: var(--blue-dark);
+    padding: 20px 0; display: flex; justify-content: space-between; align-items: center; gap: 16px;
+  }
+  .faq-q .faq-icon { font-size: 1.4rem; color: var(--blue-mid); transition: transform 0.25s; }
+  .faq-item.open .faq-q .faq-icon { transform: rotate(45deg); }
+  .faq-a { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; font-size: 0.9rem; color: var(--text-muted); line-height: 1.7; }
+  .faq-item.open .faq-a { max-height: 240px; }
+  .faq-a p { padding: 0 0 20px; }
+
+  /* SHARED CONTACT INFO + MAP */
+  .site-contact-info { display: flex; flex-wrap: wrap; gap: 14px; margin: 28px 0; justify-content: center; }
+  .contact-chip {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 100px; padding: 10px 18px; font-size: 0.9rem; font-weight: 500; color: white; text-decoration: none; transition: border-color 0.2s, color 0.2s;
+  }
+  .contact-chip:hover { border-color: var(--blue-light); color: var(--blue-light); }
+  .site-map-wrap { border-radius: 16px; overflow: hidden; border: 1px solid rgba(255,255,255,0.15); margin-top: 12px; }
+  .site-map-wrap iframe { width: 100%; height: 320px; border: 0; display: block; }
+
   /* ── FOOTER ── */
   footer {
     background: var(--charcoal);
@@ -543,11 +569,11 @@ w
     <li><a href="index.html#home" class="active">Home</a></li>
     <li><a href="services.html">Services</a></li>
     <li><a href="why.html">Why Us</a></li>
-    <li><a href="index.html#process">Process</a></li>
-    <li><a href="index.html#team">Team</a></li>
-    <li><a href="index.html#contact">Contact</a></li>
+    <li><a href="process.html">Process</a></li>
+    <li><a href="team.html">Team</a></li>
+    <li><a href="contact.html">Contact</a></li>
   </ul>
-  <a href="index.html#contact" class="nav-cta">Get Free Audit</a>
+  <a href="contact.html" class="nav-cta">Get Free Audit</a>
   <button class="nav-toggle" aria-label="Toggle navigation">
     <span></span>
     <span></span>
@@ -557,9 +583,9 @@ w
     <a href="index.html#home">Home</a>
     <a href="services.html">Services</a>
     <a href="why.html">Why Us</a>
-    <a href="index.html#process">Process</a>
-    <a href="index.html#team">Team</a>
-    <a href="index.html#contact">Contact</a>
+    <a href="process.html">Process</a>
+    <a href="team.html">Team</a>
+    <a href="contact.html">Contact</a>
   </div>
 </nav>
 
@@ -817,6 +843,51 @@ w
   </div>
 </section>
 
+<!-- FAQ -->
+<section id="faq">
+  <div class="section-inner" style="text-align:center;">
+    <p class="section-eyebrow">Good to Know</p>
+    <h2 class="section-title">Frequently Asked Questions</h2>
+    <p class="section-sub" style="margin: 0 auto;">Answers to common questions about working with GlobeSpark.</p>
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-q">How long before we see results?<span class="faq-icon">+</span></button>
+        <div class="faq-a"><p>Most clients see meaningful movement in 3–4 months. Technical fixes and quick wins land first; compounding organic growth builds from there.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Do you lock us into long contracts?<span class="faq-icon">+</span></button>
+        <div class="faq-a"><p>No. We work month-to-month because we'd rather earn your trust with results than trap you in paperwork.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">Which industries do you serve?<span class="faq-icon">+</span></button>
+        <div class="faq-a"><p>We've ranked businesses across 40+ industries — e-commerce, real estate, SaaS, healthcare, local services, and more.</p></div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q">What does the free audit include?<span class="faq-icon">+</span></button>
+        <div class="faq-a"><p>A full technical review, keyword opportunity map, competitor snapshot, and a prioritized action list — worth ₹5,000, with no obligation.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SHARED CONTACT INFO + MAP -->
+<section id="contact-location" style="background: linear-gradient(135deg, var(--blue-dark), #0a1f3d); text-align: center; padding: 100px 6vw;">
+  <div class="section-inner">
+    <p class="section-eyebrow" style="color: var(--blue-light);">Get In Touch</p>
+    <h2 class="section-title" style="color: white; max-width: 620px; margin: 0 auto 16px;">Reach GlobeSpark</h2>
+    <p class="section-sub" style="color: rgba(255,255,255,0.65); margin: 0 auto 8px;">Call, WhatsApp, or email us — we usually respond within one business day.</p>
+    <div class="site-contact-info">
+      <a class="contact-chip" href="tel:+918219797895">📞 +91 8219797895</a>
+      <a class="contact-chip" href="https://wa.me/918219797895">💬 WhatsApp</a>
+      <a class="contact-chip" href="mailto:globeespark@gmail.com">✉️ globeespark@gmail.com</a>
+      <span class="contact-chip">📍 Lagru, Kangra, Himachal Pradesh</span>
+    </div>
+    <div class="site-map-wrap">
+      <iframe src="https://www.google.com/maps?q=Lagru,Kangra,Himachal+Pradesh&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+
 <!-- FOOTER -->
 <footer>
   <div class="footer-inner">
@@ -826,9 +897,10 @@ w
     </div>
     <div class="footer-links">
       <a href="services.html">Services</a>
-      <a href="#team">Team</a>
-      <a href="#process">Process</a>
-      <a href="#contact">Contact</a>
+      <a href="why.html">Why Us</a>
+      <a href="process.html">Process</a>
+      <a href="team.html">Team</a>
+      <a href="contact.html">Contact</a>
     </div>
   </div>
   <div class="footer-copy">
@@ -875,6 +947,12 @@ w
       });
     });
   }
+
+  document.querySelectorAll('.faq-q').forEach(q => {
+    q.addEventListener('click', () => {
+      q.parentElement.classList.toggle('open');
+    });
+  });
 </script>
 
 </body>
