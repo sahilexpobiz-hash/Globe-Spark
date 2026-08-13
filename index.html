@@ -479,7 +479,7 @@
   /* ── RESPONSIVE ── */
   @media (max-width: 768px) {
     .hero-grid, .why-grid { grid-template-columns: 1fr; }
-    .hero-stats { grid-template-columns: 1fr 1fr; gap: 16px; }
+    .hero-stats { grid-template-columns: repeat(3, 1fr); gap: 16px; }
     .form-row { flex-direction: column; }
     .process-steps { gap: 24px; }
     .process-step:not(:last-child)::after { display: none; }
@@ -487,11 +487,12 @@
     .nav-toggle { display: flex; }
 
     .footer-inner { flex-direction: column; text-align: center; }
+    .footer-links { flex-wrap: wrap; justify-content: center; }
   }
 
   @media (max-width: 480px) {
     .hero { padding: 90px 5vw 40px; }
-    .hero-stats { grid-template-columns: 1fr; gap: 12px; }
+    .hero-stats { grid-template-columns: 1fr 1fr; gap: 12px; }
     .hero-btns { flex-direction: column; width: 100%; }
     .btn-primary, .btn-outline { width: 100%; text-align: center; }
     section { padding: 60px 5vw; }
@@ -801,7 +802,7 @@
       <span class="footer-brand">GlobeSpark</span>
     </div>
     <div class="footer-links">
-      <a href="#services">Services</a>
+      <a href="services.html">Services</a>
       <a href="#team">Team</a>
       <a href="#process">Process</a>
       <a href="#contact">Contact</a>
