@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -60,7 +60,7 @@
     display: flex; align-items: center; gap: 10px; text-decoration: none;
     font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 1.15rem; color: var(--blue-dark);
   }
-  .nav-logo .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--blue-light); }
+  .nav-logo img { height: 36px; width: auto; object-fit: contain; }
   .nav-links { display: flex; gap: 32px; list-style: none; }
   .nav-links a { text-decoration: none; font-size: 0.9rem; font-weight: 500; color: var(--charcoal); transition: color 0.2s; }
   .nav-links a:hover, .nav-links a.active { color: var(--blue-mid); }
@@ -340,7 +340,7 @@
 
 <!-- NAV -->
 <nav>
-  <a class="nav-logo" href="index.html"><span class="dot"></span> GlobeSpark</a>
+  <a class="nav-logo" href="index.html"><img src="assets/globe logo.png" alt="GlobeSpark Logo"> GlobeSpark</a>
   <ul class="nav-links">
     <li><a href="index.html">Home</a></li>
     <li><a href="services.html">Services</a></li>
@@ -602,7 +602,10 @@
 <!-- FOOTER -->
 <footer>
   <div class="footer-inner">
-    <div class="footer-brand">GlobeSpark</div>
+    <div class="footer-logo" style="display: flex; align-items: center; gap: 10px;">
+      <img src="assets/globe logo.png" alt="GlobeSpark Logo" style="height: 38px; width: auto; object-fit: contain;">
+      <span class="footer-brand">GlobeSpark</span>
+    </div>
     <div class="footer-links">
       <a href="services.html">Services</a>
       <a href="why.html">Why Us</a>
