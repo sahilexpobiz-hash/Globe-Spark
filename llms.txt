@@ -1,0 +1,40 @@
+# GlobeSpark
+
+> GlobeSpark is a digital marketing agency based in Kangra, Himachal Pradesh, serving businesses across Dharamshala, Shimla, Solan, Hamirpur and all of Himachal Pradesh. Services include SEO, local SEO / Google Maps ranking, website design & development, social media marketing, performance ads (Meta & Google Ads), content marketing, link building, and industry-specific growth (including hotel marketing in Dharamshala).
+
+## Services
+
+- SEO Services in Himachal Pradesh: technical, on-page and off-page SEO, audits, content and link building.
+- Local SEO Expert in Kangra: Google Business Profile optimization, citations and Maps ranking.
+- Website Designing Company in Kangra: fast, mobile-first, conversion-focused websites.
+- Web Developer in Dharamshala: custom web design and development.
+- Social Media & Performance Ads: Meta and Google Ads campaigns.
+- Hotel Marketing Dharamshala / HP: growth plans for hotels, schools, clinics and local businesses.
+
+## Location Pages
+
+- [Dharamshala](https://globe-spark.vercel.app/dharamshala.html): SEO, web design and hotel marketing for Dharamshala's tourism, cafés and wellness businesses.
+- [Shimla](https://globe-spark.vercel.app/shimla.html): Local SEO and tourism marketing for Shimla's hotels, restaurants and shops.
+- [Solan](https://globe-spark.vercel.app/solan.html): SEO and web design for Solan's schools, industry, real estate and local businesses.
+- [Hamirpur](https://globe-spark.vercel.app/hamirpur.html): Education and admission marketing for Hamirpur's colleges, coaching centers and hostels.
+- [All Locations](https://globe-spark.vercel.app/locations.html): Overview of GlobeSpark's service areas across Himachal Pradesh.
+
+## Pages
+
+- [Home](https://globe-spark.vercel.app/): Digital marketing agency in Kangra - overview of services, why choose us, process, team, FAQs and contact.
+- [Services](https://globe-spark.vercel.app/services.html): Full breakdown of SEO, web design, ads, content, CRO and reputation management services.
+- [Why Us](https://globe-spark.vercel.app/why.html): Data-driven strategy, measurable results, transparent reporting and multi-industry expertise.
+- [Process](https://globe-spark.vercel.app/process.html): The 4-step method - Discovery & Audit, Strategy Planning, Execute & Optimize, Report & Scale.
+- [Team](https://globe-spark.vercel.app/team.html): The digital marketers and SEO specialists behind client rankings.
+- [Contact](https://globe-spark.vercel.app/contact.html): Get a free SEO audit worth Rs.5,000. Call +91 8219797895, WhatsApp, or email globeespark@gmail.com. Located in Lagru, Kangra, Himachal Pradesh.
+
+## Contact
+
+- Phone / WhatsApp: +91 8219797895
+- Email: globeespark@gmail.com
+- Address: Lagru, Kangra, Himachal Pradesh 176001, India
+- Website: https://globe-spark.vercel.app/
+
+## Sitemap
+
+- [XML Sitemap](https://globe-spark.vercel.app/sitemap.xml)
