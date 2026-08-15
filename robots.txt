@@ -1,4 +1,50 @@
+# ==============================================================================
+# GlobeSpark Digital Agency - Robots.txt
+# https://globe-spark.vercel.app/
+# ==============================================================================
+
+# Default Search Engine Crawlers
 User-agent: *
 Allow: /
+Crawl-delay: 1
 
+# Major AI & LLM Search / Indexing Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# Canonical Sitemaps and LLM context files
 Sitemap: https://globe-spark.vercel.app/sitemap.xml
+Host: https://globe-spark.vercel.app

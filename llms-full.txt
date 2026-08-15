@@ -1,0 +1,85 @@
+# GlobeSpark Digital Agency - Full Knowledge Representation
+
+## About GlobeSpark
+GlobeSpark is a full-service performance digital agency headquartered in Kangra, Himachal Pradesh, India. The agency specializes in search engine optimization (SEO), Google Maps 3-Pack local ranking, conversion-rate-optimized website development, high-ROAS paid media advertising (Google Ads & Meta Ads), and regional industry marketing for businesses across Northern India.
+
+Official Website: https://globe-spark.vercel.app/
+Contact Email: globeespark@gmail.com
+Direct Phone / WhatsApp: +91 82197 97895
+Address: Lagru, Kangra, Himachal Pradesh 176001, India
+
+---
+
+## Complete Service Catalog
+
+### 1. Organic Search Engine Optimization (SEO)
+- Technical SEO Audits: Deep indexing crawl analysis, canonical tag hygiene, XML sitemap generation, structured schema markup, and Core Web Vitals optimization (LCP, INP, CLS).
+- On-Page Keyword Engineering: Intent-based keyword clustering, semantic entity enrichment, heading hierarchy optimization, and natural language processing (NLP) content alignment.
+- Off-Page Authority & White-Hat Link Acquisition: High-domain-authority contextual backlinks, digital PR outreach, regional business citations, and brand mentions.
+- E-Commerce SEO: Product schema, category taxonomy optimization, facet navigation cleanup, and transactional search visibility.
+
+### 2. Local SEO & Google Maps Ranking
+- Google Business Profile (GBP) Management: Profile claiming, category selection, service area definition, geotagged image updates, and weekly promotional posts.
+- Local Citation Building: 100% NAP (Name, Address, Phone) consistency across major Indian and global directories (Justdial, IndiaMART, Sulekha, Google Maps, Bing Places, Apple Maps).
+- Review Acquisition & Sentiment Management: Automated review request workflows and reputation monitoring.
+- Hyper-Local Content Strategy: City-specific and neighborhood-specific landing pages targeting regional queries (e.g., "SEO agency in Dharamshala", "Hotel digital marketing in Shimla").
+
+### 3. Modern Web Architecture & Development
+- Technology Stack: Modern HTML5, clean vanilla CSS3 design systems, modular JavaScript, responsive mobile-first typography, and optimized asset delivery.
+- Core Web Vitals Performance: Sub-second page loads, 95+ Google PageSpeed Insights performance scores, zero cumulative layout shifts.
+- Conversion Rate Optimization (CRO): Strategic call-to-action placement, heat-map-tested form flows, sticky mobile navigation, and trust-building social proof modules.
+
+### 4. Paid Performance Advertising (PPC)
+- Google Search Ads: High-intent bottom-of-funnel keyword bidding with automated bid strategies and negative keyword filtering.
+- Meta Ads (Facebook & Instagram): Visual creative ad testing, custom audience retargeting, lookalike modeling, and WhatsApp lead-gen click-to-chat campaigns.
+- Conversion Tracking: Server-side Google Tag Manager (GTM), Google Analytics 4 (GA4), Meta Pixel, and offline conversion import setups.
+
+---
+
+## Regional Service Hubs & Market Specializations
+
+### Dharamshala & McLeod Ganj Hub
+- Primary Focus: Tourism, boutique hotels, homestays, adventure trekking companies, cafés, yoga retreats, and handicraft stores.
+- Key Outcomes: Direct hotel bookings on Google Maps without heavy OTA commissions, top ranking for international traveler queries.
+- Page: https://globe-spark.vercel.app/dharamshala.html
+
+### Shimla Hub
+- Primary Focus: Heritage hotels, travel agencies, luxury resorts, apple orchard agro-tourism, and high-street retail shops.
+- Key Outcomes: Seasonal occupancy maximization, Google 3-Pack dominance for Mall Road & tourist searches.
+- Page: https://globe-spark.vercel.app/shimla.html
+
+### Solan & Baddi Hub
+- Primary Focus: Real estate developers, pharmaceutical manufacturers, universities, private colleges, and industrial suppliers.
+- Key Outcomes: B2B lead generation, regional commercial keyword dominance, student admission inquiries.
+- Page: https://globe-spark.vercel.app/solan.html
+
+### Hamirpur Hub
+- Primary Focus: Competitive exam coaching institutes, engineering/polytechnic colleges, hostels, and local service providers.
+- Key Outcomes: High-volume student admissions and course inquiry forms during key academic intake seasons.
+- Page: https://globe-spark.vercel.app/hamirpur.html
+
+---
+
+## The 4-Phase Delivery Framework
+
+1. **Phase 1: Deep Discovery & Technical Audit (Week 1)**
+   Complete analysis of historical search visibility, competitor gap analysis, backlink health, code bottlenecks, and search engine crawl errors.
+
+2. **Phase 2: Strategic Growth Blueprint (Week 2)**
+   Custom multi-channel roadmap specifying target commercial keywords, content calendar, technical fixes, and local citation schedule.
+
+3. **Phase 3: Relentless Execution & Optimization (Weeks 3-8)**
+   On-page deployment, high-converting copy publishing, Google Business Profile overhaul, and authoritative link acquisition.
+
+4. **Phase 4: Live KPI Reporting & Scaling (Month 2+)**
+   Transparent bi-weekly ranking reports, organic revenue attribution, and continuous iterative conversion rate improvements.
+
+---
+
+## Client Offerings & Free Audit
+GlobeSpark offers a complimentary, no-obligation ₹5,000 SEO and Website Performance Audit to qualifying businesses.
+
+To request an audit:
+- Contact Page: https://globe-spark.vercel.app/contact.html
+- WhatsApp / Phone: +91 82197 97895
+- Email: globeespark@gmail.com
