@@ -1,6 +1,14 @@
-# GlobeSpark Digital Agency
+# GlobeSpark Digital Agency – Premier SEO Agency in India
 
-> GlobeSpark is a premier performance digital marketing, SEO, and web architecture agency based in Kangra, Himachal Pradesh, India. We empower ambitious regional and national businesses across Dharamshala, Shimla, Solan, Hamirpur, and throughout Himachal Pradesh to achieve dominant Google rankings, high-converting organic traffic, and scalable digital revenue.
+> GlobeSpark is a leading performance digital marketing and SEO agency in India based in Kangra, Himachal Pradesh. We deliver ROI-focused SEO services in India, technical SEO audits, Google Maps 3-Pack rankings, performance ads, and high-converting web architecture for startups, e-commerce, healthcare, real estate, and local businesses across India.
+
+## Core Keywords & Organic Search Categories
+
+- **Primary Search Terms**: SEO agency in India, Digital marketing agency India, Best SEO company in India, SEO services India, SEO agency near me.
+- **Service-Specific Terms**: SEO audit services, On-page SEO services India, Off-page SEO services, Link building services India, Content marketing agency India, Social media marketing agency India, Local SEO services India, Technical SEO services, Keyword research services.
+- **Intent & Long-Tail Searches**: How to rank higher on Google in India, Affordable SEO services for small business India, SEO agency for startups India, Best digital marketing agency for e-commerce, How to improve website ranking on Google, SEO packages for small business India, Local SEO for small business India, SEO company for real estate business.
+- **Industry Solutions**: SEO for e-commerce websites, SEO agency for healthcare business, Digital marketing for real estate, SEO for SaaS companies India, SEO for local businesses India.
+- **Trust & Comparison**: Best SEO agency for small business India, Top digital marketing agencies in India, SEO agency with monthly reporting, SEO agency with no long-term contract.
 
 ## Core Capabilities & Services
 
@@ -22,7 +30,7 @@
 ## Main Navigation & Resources
 
 - [Home](https://globe-spark.vercel.app/): Digital agency overview, core value proposition, growth metrics, and audit request.
-- [Services Directory](https://globe-spark.vercel.app/services.html): Full breakdown of 8 core service categories and technical deliverables.
+- [Services Directory](https://globe-spark.vercel.app/services.html): Full breakdown of core service categories and technical deliverables.
 - [Why GlobeSpark](https://globe-spark.vercel.app/why.html): Transparent KPIs, zero lock-in contracts, senior team execution, and proven ROI metrics.
 - [Our 4-Phase Process](https://globe-spark.vercel.app/process.html): Systematic 4-step framework - 1. Audit & Discovery, 2. Strategic Blueprint, 3. Execution & Optimization, 4. Reporting & Scale.
 - [Leadership & Team](https://globe-spark.vercel.app/team.html): Senior SEO strategists, performance marketers, web architects, and CRO specialists.
